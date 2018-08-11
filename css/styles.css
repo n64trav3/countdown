@@ -1,5 +1,7 @@
 /* Preloader */
-
+body {
+	transform: scale(.5);
+}
 * {
 	color:white;
 }
